@@ -1,0 +1,64 @@
+* {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: lightblue;
+    width: 45%;
+    margin: 0 auto;
+    padding: 7px;
+    border: solid 5px black;
+    border-radius: 25px;
+}
+figure {
+    margin-top: 100px;
+}
+input {
+    margin: 5px;
+}
+body {
+    background-color: lightpink;
+}
+header {
+    background-color: lightblue;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+h1 {
+    margin-top: 10px;
+}
+img {
+    height: 40%;
+    width: 40%;
+    border: solid 10px black;
+    border-radius: 25px;
+}
+footer {
+    background-color: lightblue;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+a {
+    color: white;
+}
+.link {
+    display: inline;
+    padding: 5px;
+}
+#SubmitBtn {
+    height: 30px;
+    width: 60px;
+    border-radius: 25px;
+    background-color: lightpink;
+}
+#StreamingMsg {
+    margin-bottom: 10px;
+}
